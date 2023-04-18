@@ -9,17 +9,9 @@ I did my PhD at the University of Toronto and the Ontario Institute for Cancer R
 - [gblr](https://github.com/hgibling/gblr): genotyping by long reads
 
 ## Additional work
-- [*PRDM9* variants](https://github.com/hgibling/PRDM9-Variants)
-
-A list of all genomic variants of the gene PRDM9
-
-- [Scripts and files from my PhD research](https://github.com/hgibling/PhD-Thesis)
-
-Not yet complete--I'm still organizing and uploading files.
-
-- [Teaching materials](https://github.com/hgibling/TeachingDossier)
-
-I like to teach others, particularly introductory coding and bioinformatics skills!
+- [*PRDM9* variants](https://github.com/hgibling/PRDM9-Variants): A list of all genomic variants of the gene PRDM9
+- [Scripts and files from my PhD research](https://github.com/hgibling/PhD-Thesis): Not yet complete--I'm still organizing and uploading files
+- [Teaching materials](https://github.com/hgibling/TeachingDossier): I like to teach others, particularly introductory coding and bioinformatics skills!
 
 ## Other profiles
 - [LinkedIn](https://www.linkedin.com/in/hgibling/)
